@@ -1,0 +1,28 @@
+@import "variables.css";
+@import "css/header.css";
+@import "css/video-player.css";
+@import "css/video-info.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto;
+  height: 1000vh;
+}
+
+ul {
+  list-style: none;
+}
+
+button,
+button:focus {
+  border: none;
+  cursor: pointer;
+  outline: nones;
+}
+
+/* Player */

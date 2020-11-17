@@ -22,7 +22,8 @@ button,
 button:focus {
   border: none;
   cursor: pointer;
-  outline: nones;
+  outline: none;
+  background-color: white;
 }
 
 /* Player */
